@@ -21,11 +21,11 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-141321?style=for-the-badge&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-141321?style=for-the-badge&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-141321?style=for-the-badge&logo=react)&nbsp;
-![Next](https://img.shields.io/badge/-NextJS-141321?style=for-the-badge&logo=vercel)&nbsp;
+![Next](https://img.shields.io/badge/-NextJS-141321?style=for-the-badge&logo=nextdotjs)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-141321?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-141321?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/-Sass-141321?style=for-the-badge&logo=sass)&nbsp;
-![Java](https://img.shields.io/badge/-Java-141321?style=for-the-badge&logo=java)&nbsp;
+![Java](https://img.shields.io/badge/Java-141321?style=for-the-badge&logo=java)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-141321?style=for-the-badge&logo=python)&nbsp;
 ![SQL](https://img.shields.io/badge/-Sql-141321?style=for-the-badge&logo=sql)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-141321?style=for-the-badge&logo=git)&nbsp;
