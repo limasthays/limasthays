@@ -1,4 +1,4 @@
-## Hey there! 👋 I'm Thays Lima, front-end developer with a graphic design aproach. ✨
+## Hey there! 👋 I'm Thays Lima, fullstack developer with a graphic design aproach. ✨
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-141321?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/limasthays/)](https://www.linkedin.com/in/limasthays/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-141321?style=for-the-badge&logo=gmail&link=mailto:limasthays@gmail.com)](mailto:limasthays@gmail.com) [![Letterboxd Badge](https://img.shields.io/badge/-Letterboxd-141321?style=for-the-badge&logo=letterboxd&link=https://letterboxd.com/thayslima/)](https://letterboxd.com/thayslima/)
 
